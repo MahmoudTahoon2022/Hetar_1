@@ -2,7 +2,7 @@
   "devices": {
     "Hetar_1": {
       "version": "1.1",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/Hetar_1/main/1.1.bin",
+      "bin": "https://cdn.jsdelivr.net/gh/MahmoudTahoon2022/Hetar_1@main/1.1.bin?v=1.1",
       "force": false
     }
   }
